@@ -1,6 +1,5 @@
 plugins:
   - jekyll-feed
-  - jekyll-default-layout
 title: The Starry Voyage
-description: The Starry Voyage
+description: The Starry Voyage | Mingi Ryu
 author: Mingi Ryu

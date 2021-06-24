@@ -2,7 +2,7 @@
 layout: posts
 title: "Colorado Springs"
 updated: 2021-05-20
-category: gallery
+category: posts
 ---
 
 ## Garden of the Gods

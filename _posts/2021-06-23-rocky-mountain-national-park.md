@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Rocky Mountain National Park"
 updated: 2021-06-22
 category: posts

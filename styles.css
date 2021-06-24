@@ -50,7 +50,7 @@ main img {
 
 iframe {
   border: none;
-  width: 80%;
+  width: 100%;
   height: 80%;
 }
 
@@ -254,11 +254,6 @@ article h2 {
   .follow-btns {
     text-align: right;
   }
-
-  iframe {
-    width: 30%;
-    height: 30%;
-  }
 }
 
 @media (min-width: 60em) {
@@ -275,6 +270,11 @@ article h2 {
     flex-grow: 1;
     padding-right: 1rem;
     margin-bottom: 0;
+  }
+
+  iframe {
+    width: 30%;
+    height: 30%;
   }
 }
 

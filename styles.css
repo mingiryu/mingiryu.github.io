@@ -50,8 +50,8 @@ main img {
 
 iframe {
   border: none;
-  width: 30%;
-  height: 30%;
+  width: 45%;
+  height: 45%;
 }
 
 .no-shadow {
@@ -256,8 +256,8 @@ article h2 {
   }
 
   iframe {
-    width: 45%;
-    height: 45%;
+    width: 30%;
+    height: 30%;
   }
 }
 

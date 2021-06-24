@@ -48,8 +48,8 @@ main img {
   padding: 6px;
 }
 
-video {
-  max-width: 100%;
+iframe {
+  border: none;
 }
 
 .no-shadow {

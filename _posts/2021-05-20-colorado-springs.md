@@ -5,9 +5,7 @@ updated: 2021-05-20
 category: posts
 ---
 
-## Garden of the Gods
-
-[AllTrails](https://www.alltrails.com/parks/us/colorado/garden-of-the-gods)
+### [Garden of the Gods](https://www.alltrails.com/parks/us/colorado/garden-of-the-gods)
 
 <iframe src="https://drive.google.com/file/d/1tb5l7lJOtCu5TES-4K3YT8C6jd_ZbaYo/preview"></iframe>
 
@@ -21,9 +19,7 @@ category: posts
 
 <iframe src="https://drive.google.com/file/d/1-ZiOPIwYh1md4uPC2nl7vuqvxqReJQVG/preview"></iframe>
 
-## Red and Iron Mountains
-
-[AllTrails](https://www.alltrails.com/trail/us/colorado/red-and-iron-mountains-via-intemann-trail)
+### [Red and Iron Mountains](https://www.alltrails.com/trail/us/colorado/red-and-iron-mountains-via-intemann-trail)
 
 <iframe src="https://drive.google.com/file/d/1m2L781q44tpM1gRqv6PbseKJaUBCJzg1/preview"></iframe>
 

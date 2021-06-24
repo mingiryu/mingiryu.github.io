@@ -5,8 +5,6 @@ updated: 2021-05-20
 category: gallery
 ---
 
-# Colorado Springs
-
 ## Garden of the Gods
 
 [AllTrails](https://www.alltrails.com/parks/us/colorado/garden-of-the-gods)

@@ -5,8 +5,6 @@ updated: 2021-06-22
 category: posts
 ---
 
-# Rocky Mountain National Park
-
 ## Itinerary
 
 ### Day 1

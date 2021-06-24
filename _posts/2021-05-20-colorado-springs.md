@@ -11,7 +11,7 @@ category: posts
 
 [AllTrails](https://www.alltrails.com/parks/us/colorado/garden-of-the-gods)
 
-<iframe src="https://drive.google.com/file/d/1tb5l7lJOtCu5TES-4K3YT8C6jd_ZbaYo/preview" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1tb5l7lJOtCu5TES-4K3YT8C6jd_ZbaYo/preview" ></iframe>
 
 <iframe src="https://drive.google.com/file/d/1LYUEe5cFMRFsdkyMe-YvEMGEuwdS-_da/preview" allow="autoplay"></iframe>
 

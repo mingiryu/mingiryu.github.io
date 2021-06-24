@@ -50,6 +50,8 @@ main img {
 
 iframe {
   border: none;
+  width: 50%;
+  height: 100%;
 }
 
 .no-shadow {

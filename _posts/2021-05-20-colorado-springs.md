@@ -40,4 +40,4 @@ category: posts
 
 <iframe src="https://drive.google.com/file/d/1NWjxVoQ-ZG0mQgBAMLptni1w9-mhMXi3/preview"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1U5TMeNRrLyyFzP721i-TsLNJWkYdP_fo/preview"></iframe>https://cdn-assets.alltrails.com/assets/packs/media/cuttlefish/logo-6582e02f.svg
+<iframe src="https://drive.google.com/file/d/1U5TMeNRrLyyFzP721i-TsLNJWkYdP_fo/preview"></iframe>

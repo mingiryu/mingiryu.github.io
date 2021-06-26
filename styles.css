@@ -42,10 +42,10 @@ a:hover {
 }
 
 main img {
-  box-shadow: 0px 0px 6px #aeaeae;
+  box-shadow: 0px 0px 0px #aeaeae;
   border-radius: var(--border-radius);
   max-width: 100%;
-  padding: 6px;
+  padding: 0px;
 }
 
 iframe {

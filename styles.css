@@ -52,10 +52,6 @@ iframe {
   height: 100vw;
 }
 
-.no-shadow {
-  box-shadow: none;
-}
-
 nav ul {
   align-items: flex-start;
   flex-wrap: wrap;

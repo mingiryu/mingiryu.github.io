@@ -5,7 +5,8 @@ updated: 2021-06-23
 category: posts
 ---
 
-### [Garden of the Gods](https://www.alltrails.com/parks/us/colorado/garden-of-the-gods)
+### Garden of the Gods [![AllTrails](https://www.alltrails.com/favicon.ico)](https://www.alltrails.com/parks/us/colorado/garden-of-the-gods)
+
 
 <iframe src="https://drive.google.com/file/d/1tb5l7lJOtCu5TES-4K3YT8C6jd_ZbaYo/preview"></iframe>
 
@@ -39,4 +40,4 @@ category: posts
 
 <iframe src="https://drive.google.com/file/d/1NWjxVoQ-ZG0mQgBAMLptni1w9-mhMXi3/preview"></iframe>
 
-<iframe src="https://drive.google.com/file/d/1U5TMeNRrLyyFzP721i-TsLNJWkYdP_fo/preview"></iframe>
+<iframe src="https://drive.google.com/file/d/1U5TMeNRrLyyFzP721i-TsLNJWkYdP_fo/preview"></iframe>https://cdn-assets.alltrails.com/assets/packs/media/cuttlefish/logo-6582e02f.svg

@@ -12,7 +12,7 @@ Terraform is supported on Apple Silicon, but the following error could happens w
 > Provider registry.terraform.io/hashicorp/template v2.2.0 does not have a package available for your current platform, darwin_arm64.
 
 
-Relevant ticket: [https://github.com/hashicorp/terraform/issues/27257](https://github.com/hashicorp/terraform/issues/27257)
+Relevant issue: [https://github.com/hashicorp/terraform/issues/27257](https://github.com/hashicorp/terraform/issues/27257)
 
 Based on `anthonynsimon`'s comment, the workaround is to locally compile terraform from source and copy & paste into a pre-defined path.
 

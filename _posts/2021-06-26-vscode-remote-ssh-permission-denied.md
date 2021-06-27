@@ -5,13 +5,15 @@ updated: 2021-06-26
 category: posts
 ---
 
-`ssh {user}@{ip}` works, but VS Code remote SSH doesn't.
+`ssh {user}@{ip}` works, but VS Code remote SSH doesn't with the following error.
 
-``
-Permission denied (publickey,password)
-``
+> Permission denied (publickey,password)
+
+Simplest solution:
 
 1. Add IdentityFile
+
+`~/.ssh/config` file should look something like the following:
 
 ``
 Host {ip}

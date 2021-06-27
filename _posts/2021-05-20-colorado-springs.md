@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: gallery
 title: "Colorado Springs"
 updated: 2021-06-23
-category: posts
+category: gallery
 ---
 
 ### Garden of the Gods [![AllTrails](https://www.alltrails.com/favicon.ico)](https://www.alltrails.com/parks/us/colorado/garden-of-the-gods)

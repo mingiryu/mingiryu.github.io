@@ -27,5 +27,9 @@
         {{ content }}
       </article>
     </main>
+
+    {% if page.license %}
+      {% include license.html %}
+    {% endif %}
   </body>
 </html>

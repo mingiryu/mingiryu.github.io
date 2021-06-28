@@ -1,7 +1,6 @@
 ---
 layout: posts
 title: "VS Code Remote SSH Permission Denied"
-updated: 2021-06-26
 category: posts
 ---
 

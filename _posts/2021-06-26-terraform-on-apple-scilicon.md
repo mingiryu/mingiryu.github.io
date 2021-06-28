@@ -1,7 +1,6 @@
 ---
 layout: posts
 title: "Terraform on Apple Silicon"
-updated: 2021-06-26
 category: posts
 ---
 

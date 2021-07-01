@@ -284,10 +284,6 @@ article h2 {
   body {
     width: 90%;
   }
-
-  body.single-post {
-    width: 44rem;
-  }
 }
 
 @media (min-width: 88em) {
